@@ -1,0 +1,7 @@
+Moneda	Var_porce
+Real brasileño	31.11
+Lira turca	25.86
+Rublo ruso	21.47
+Rand sudafricano	18.92
+Peso colombiano	12.24
+Peso mexicano	11.66
