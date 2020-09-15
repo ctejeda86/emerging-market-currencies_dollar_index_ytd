@@ -1,4 +1,3 @@
-setwd("C:\\Users\\ivett\\Documents\\Trabajo\\Sep 2020\\dolar_130920")
 dolar<-read.table(file="dol_1409.txt",header=TRUE,sep="\t", dec=".")
 head(dolar)
 
